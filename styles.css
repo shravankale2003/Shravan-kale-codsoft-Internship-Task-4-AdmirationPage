@@ -1,11 +1,12 @@
 body {
     font-family: 'Arial', sans-serif;
     background-color:blue;
+
     margin: 0;
   }
   
   header {
-    background-color: gold;
+    background-color: #FF9933;
     color: blue;
     text-align: center;
     padding: 20px;
@@ -15,7 +16,7 @@ body {
     
     max-width: 800px;
     margin: 40px auto;
-    background-color: gold;
+    background-color: #FF9933;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -32,7 +33,10 @@ body {
   p {
     font-size: 16px;
     line-height: 1.6;
-    color: #333;
+    color: blue;
+  }
+  h3{
+    color: BLUE;
   }
   
   footer {
@@ -41,7 +45,7 @@ body {
     text-align: center;
    
     padding: 10px;
-    background-color:gold;
+    background-color:#FF9933;
     color: blue;
   }
 #pa{
